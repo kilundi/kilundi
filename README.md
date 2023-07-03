@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kilundi
-- 👀 I’m interested in ...KNOWING MORE ABOUT CODING.
+- 👀 I’m a FRONT END DEVELOPER
 - 🌱 I’m currently learning ...(IT) INFORMATION TECHNOLOGY.
 - 📫 How to reach me ... +254721855756, muthiani42@gmail.com
 
