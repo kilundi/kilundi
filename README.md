@@ -57,6 +57,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+
+
+ <img src="https://instagram.com/stanslau.s?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
